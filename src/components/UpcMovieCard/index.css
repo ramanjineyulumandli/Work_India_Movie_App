@@ -1,0 +1,22 @@
+.movie-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  height: 380px;
+  width: 320px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+.title {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 18px;
+  margin-right: 5px;
+  line-height: 24px;
+}
+.title-rating-con {
+  align-self: flex-start;
+}
